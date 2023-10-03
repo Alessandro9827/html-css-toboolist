@@ -95,28 +95,31 @@ h3 {
 
 .font-rules {
     color: white;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .tag-edit {
-
+    background-color: cyan;
 }
 
 .tag-qone {
-
+    background-color: violet;
 }
 
-.tag-recruing {
-
+.tag-recruiting {
+    background-color: orange;
 }
 
 .tag-mobile {
-
+    background-color: lightpink;
 }
 
 .tag-website {
-
+    background-color: salmon;
 }
 
 .tag-sales {
-    
+    background-color: lightgreen;
 }
