@@ -21,6 +21,17 @@ img {
     margin-top: 5px;
 }
 
+p {
+    margin-left: 40px;
+    line-height: 3;
+}
+
+h3 {
+    font-family: 'AR One Sans', sans-serif;
+    font-family: 'Livvic', sans-serif;
+    font-weight:700;
+}
+
 .container {
     background-color: white;
     width: 80%;
@@ -81,25 +92,14 @@ img {
 .text {
     padding-top: 10px;
 }
-
-p {
-    margin-left: 40px;
-    line-height: 3;
-}
-
-h3 {
-    font-family: 'AR One Sans', sans-serif;
-    font-family: 'Livvic', sans-serif;
-    font-weight:700;
-}
-
+/*Regola principale per i tag colorati*/
 .font-rules {
     color: white;
     font-size: 10px;
     padding: 5px;
     border-radius: 10px;
 }
-
+/*Tag colorati*/
 .tag-edit {
     background-color: cyan;
 }
