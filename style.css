@@ -39,6 +39,8 @@ img {
     margin-top: 30px;
     height: 60px;
     border-radius: 4px;
+    padding-top: 10px;
+    padding-left: 40px;
 }
 
 .add-task {
@@ -48,8 +50,6 @@ img {
     border-radius: 4px;
     width: 80px;
     height: 40px;
-    margin-top: 10px;
-    margin-left: 40px;
 }
 
 .add-section {
@@ -64,4 +64,9 @@ img {
 .block-button {
     margin-top: 10px;
     margin-left: 20px;
+}
+
+.list-section {
+    margin-top: 4px;
+
 }
