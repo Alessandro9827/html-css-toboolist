@@ -123,3 +123,17 @@ h3 {
 .tag-sales {
     background-color: lightgreen;
 }
+
+.check {
+    border-radius: 50%;
+    border: 1px solid green;
+    color: green;
+    /* display: inline-block;*/
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    margin-right: 5px;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 3px;
+}
