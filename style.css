@@ -23,7 +23,7 @@ img {
 
 p {
     margin-left: 40px;
-    line-height: 3;
+    padding-top: 2rem;
 }
 
 h3 {
@@ -126,14 +126,25 @@ h3 {
 
 .check {
     border-radius: 50%;
+    /* display: inline-block;
     border: 1px solid green;
-    color: green;
-    /* display: inline-block;*/
+    color: green;*/
     width: 20px;
     height: 20px;
     padding: 2px;
+    padding-left: 3px;
     margin-right: 5px;
     text-align: center;
     vertical-align: middle;
     margin-bottom: 3px;
+}
+
+.check-green {
+    color: green;
+    border: 1px solid green;
+}
+
+.check-red {
+    color: red;
+    border: 1px solid red;
 }
